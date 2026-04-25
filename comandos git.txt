@@ -7,17 +7,18 @@ git config --local user.name "Fernando"
 git config --local user.email "belalcazarjuanferbe@gmail.com"
 (Esto configura al email de usurio asociado a la cuenta de github)
 
-git add .
-(añade todos los archivos al repositorio)
-
 git branch -M mani
 (cambiar el nombre de la rama de Master a Mani)
+
+git add .
+(añade todos los archivos al repositorio)
 
 git commit -m "version de subida"
 (Es la version que usted esta subiendo al repo)
 
+https://github.com/belalcazarjuanferbe-design/Maketado_web.git
 git push -u origin main
-(este empuja los cambios locales a la nube).
+(este empuja los cambios locales a la nube SUBE EL REPOSITORIO A GITHUB).
 
 git status
 (comprueba el estado de la rama)
