@@ -22,3 +22,6 @@ git push -u origin main
 
 git status
 (comprueba el estado de la rama)
+
+git clone (URL)
+(para sacar archivos de github con la url del archivo
